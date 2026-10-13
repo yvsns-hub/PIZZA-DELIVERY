@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Delivery Management System",
+  "description": "Full-stack pizza ordering and delivery system with custom pizza builder, real-time tracking, inventory management, and role-based portals for customers, kitchen admins, and delivery staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
